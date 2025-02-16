@@ -1,7 +1,3 @@
-Here is a **catchy and professional README** for your **Dragon Ball Z Character Classification with Deep Learning** project. This version is structured to attract HR and hiring managers while keeping the technical details engaging.
-
----
-
 # **⚡ Dragon Ball Z Character Classification with Deep Learning**  
 🚀 **Anime Character Recognition using EfficientNet & Transfer Learning**  
 
